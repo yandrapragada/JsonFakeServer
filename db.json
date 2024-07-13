@@ -1,0 +1,10 @@
+{
+  "links": [
+    { "url": "https://test1.example.in", "title": "Title 1" },
+    { "url": "https://test2.example.in", "title": "Title 1" },
+    { "url": "https://test2.example.in", "title": "Title 1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
