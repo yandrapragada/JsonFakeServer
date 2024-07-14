@@ -14,11 +14,6 @@
             "id": 3,
             "url": "https://test3.example.in",
             "title": "Title 3"
-        },
-         {
-            "id": 4,
-            "url": "https://test4.example.in",
-            "title": "Title 4"
         }
     ],
     "profile": {
