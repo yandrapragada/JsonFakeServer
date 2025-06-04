@@ -1,23 +1,67 @@
 {
-    "links": [
-        {
-            "id": 21,
-            "url": "https://test21.example.in",
-            "title": "Title 21"
-        },
-        {
-            "id": 22,
-            "url": "https://test22.example.in",
-            "title": "Title 21"
-        },
-        {
-            "id": 23,
-            "url": "https://test23.example.in",
-            "title": "Title 21"
-        }
-       
+ "data": [
+  {
+   "uuid": "N2334192",
+   "locale": "en",
+   "title": "Baseer: National Algorithm Enhancing Crowd Safety at Two Holy Mosques",
+   "subtitle": null,
+   "content": "Riyadh, June 04, 2025, SPA -- The Saudi Stock Exchange Main Index ended trading higher today, gaining 172.10 points to close at 11004.53 points.\n    The total value of trading reported was SAR4.6 billion.\n    The Saudi Parallel Market Index (NOMU) ended the day by gaining 257.90 points to close at 27307.74 points, with a total trading value of SAR27 million.\n    More than three million shares were traded.\n    -- SPA\r\n16:36 Local Time 13:36 GMT\r\n0070",
+   "published_at": 1749044202,
+   "main_tag": null,
+   "date_hijri": "1446-12-08",
+   "image": {
+    "id": 2950181,
+    "path": "https://portalcdn.spa.gov.sa/backend/original/202506/TM4pqEexRYlEBCbwmEXoaGf4injnaFfCdedoQN83.jpg",
+    "sizes": [
+     "thumbnail",
+     "share-img",
+     "300-300",
+     "400-400"
     ],
-    "profile": {
-        "name": "typicode"
-    }
+    "original_name": "7969212.png",
+    "mime_type": "image/jpeg"
+   },
+   "default_image_url": null,
+   "views": 1,
+   "shares": 0,
+   "is_updated": false,
+   "sharable_link": "www.spa.gov.sa/link/3RXX"
+  },
+  {
+   "uuid": "N2334192",
+   "locale": "en",
+   "title": "Baseer: National Algorithm Enhancing Crowd Safety at Two Holy Mosques",
+   "subtitle": null,
+   "content": "Riyadh, June 04, 2025, SPA -- The Saudi Stock Exchange Main Index ended trading higher today, gaining 172.10 points to close at 11004.53 points.\n    The total value of trading reported was SAR4.6 billion.\n    The Saudi Parallel Market Index (NOMU) ended the day by gaining 257.90 points to close at 27307.74 points, with a total trading value of SAR27 million.\n    More than three million shares were traded.\n    -- SPA\r\n16:36 Local Time 13:36 GMT\r\n0070",
+   "published_at": 1749044202,
+   "main_tag": null,
+   "date_hijri": "1446-12-08",
+   "image": {
+    "id": 2950181,
+    "path": "https://portalcdn.spa.gov.sa/backend/original/202506/TM4pqEexRYlEBCbwmEXoaGf4injnaFfCdedoQN83.jpg",
+    "sizes": [
+     "thumbnail",
+     "share-img",
+     "300-300",
+     "400-400"
+    ],
+    "original_name": "7969212.png",
+    "mime_type": "image/jpeg"
+   },
+   "default_image_url": null,
+   "views": 1,
+   "shares": 0,
+   "is_updated": false,
+   "sharable_link": "www.spa.gov.sa/link/3RXX"
+  }
+ ],
+ "pagination": {
+  "current_page": 1,
+  "from": 1,
+  "last_page": null,
+  "per_page": 10,
+  "to": 10,
+  "total": null
+ },
+ "message": "Success"
 }
